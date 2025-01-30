@@ -66,7 +66,7 @@ $nombreOuvertures = $ouvertures ? $ouvertures['ouvertures_today'] : 0;
         }
 
         .container {
-            max-width: 900px;
+       width: 200;
             margin: 50px auto;
             padding: 20px;
         }

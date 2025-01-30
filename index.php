@@ -116,7 +116,7 @@ $nombreOuvertures = $ouvertures ? $ouvertures['ouvertures_today'] : 0;
         }
 
         .btn:hover {
-            background-color: #45a049;
+            color: #000;
         }
 
         .btn i {
